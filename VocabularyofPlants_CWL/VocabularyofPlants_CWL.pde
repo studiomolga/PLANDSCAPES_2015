@@ -40,7 +40,7 @@ float newStartSize;
 
 float mainX = 360;
 float mainY = 700;
-float mainRadius = 100; 
+float mainRadius = 150; 
 
 float sidePx;
 float sidePy;
@@ -251,7 +251,7 @@ void setupEvents() {
   }
 
   //we could set here maintrunk stuff depending on the amount of events?
-  maintrunkstopsize = 80;
+  maintrunkstopsize = random(10, 80);
   mainTrunk = new Trunk(40, mainX, mainY, mainRadius, maintrunkstopsize, growth);
 }
 

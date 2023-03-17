@@ -38,13 +38,15 @@ SETUP
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
 
 
-5) SENSORS - one sensor can be connected to two plants (photo?). 
+8) SENSORS - one sensor can be connected to two plants (photo?). 
 Then sensors are connected to switch, and switch to computer(s). 
 
 Connect electrodes to the Arduino and shield (photo?), connect shield to the switch, put arduino on...
 Do they need to get some ip addresses or whatever? 
 
-6) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
+9) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
 wait for the first signal to see the visualisation - you might need to do it every morning before the opening time. 
 
 each visualisation will be saved as pdf in the folder ....
+
+10) IMPORTANT! Resolution of the monitor is has to be set 768 x 1024

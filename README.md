@@ -33,6 +33,7 @@ SETUP
 6) Downaload Vocabulary of Plants on all computers
 
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
+8) Open the sketch - find a broker address (main tab, line 20 or around), 
 
 5) SENSORS - one sensor can be connected to two plants (photo?). 
 Then sensors are connected to switch, and switch to computer(s). 
@@ -41,6 +42,6 @@ Connect electrodes to the Arduino and shield (photo?), connect shield to the swi
 Do they need to get some ip addresses or whatever? 
 
 6) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
-wait for the first signal to see the visualisation
+wait for the first signal to see the visualisation - you might need to do it every morning before the opening time. 
 
 each visualisation will be saved as pdf in the folder ....

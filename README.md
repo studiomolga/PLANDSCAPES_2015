@@ -20,8 +20,8 @@ EXHIBITION
 
 SETUP
 
-1) <strong>FOR MAC OS:</strong> install mosquitto on the minimac, follow this: https://subscription.packtpub.com/book/application-development/9781787287815/1/ch01lvl1sec12/installing-a-mosquitto-broker-on-macos.  
-(you might need to install a </strong>homebrew</strong> https://brew.sh/ for this - and be patient! It takes time)
+1) <strong>FOR MAC OS:</strong> install <strong>mosquitto</strong> on the minimac, follow this: https://subscription.packtpub.com/book/application-development/9781787287815/1/ch01lvl1sec12/installing-a-mosquitto-broker-on-macos.  
+(you might need to install a <strong>homebrew</strong> https://brew.sh/ for this - and be patient! It takes time)
 
 2) make sure it starts automatically
 

@@ -20,16 +20,21 @@ EXHIBITION
 
 SETUP
 
-1) Downaload Vocabulary of Plants
-2) Download libraries (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
+1) install mosquitto on the minimac, follow this: https://subscription.packtpub.com/book/application-development/9781787287815/1/ch01lvl1sec12/installing-a-mosquitto-broker-on-macos.  
+(you might need to install a homebrew https://brew.sh/ for this)
 
-3) SENSORS - one sensor can be connected to two plants (photo?). 
+2) make sure it starts automatically
+
+3) Downaload Vocabulary of Plants
+4) Download libraries (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
+
+5) SENSORS - one sensor can be connected to two plants (photo?). 
 Then sensors are connected to switch, and switch to computer(s). 
 
 Connect electrodes to the Arduino and shield (photo?), connect shield to the switch, put arduino on...
 Do they need to get some ip addresses or whatever? 
 
-4) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
+6) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
 wait for the first signal to see the visualisation
 
 each visualisation will be saved as pdf in the folder ....

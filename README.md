@@ -49,6 +49,6 @@ wait for the first signal to see the visualisation - you might need to do it eve
 
 each visualisation will be saved as pdf in the folder ....
 
-10) IMPORTANT! Resolution of the monitor is has to be set 768 x 1024
+10) IMPORTANT! Resolution of the monitor is has to be set 768 x 1024. - the monitor will be set HORIZONTALLY so that mac needs to know that 768 is a width, and 1024 is a heigth
 
 11) SENSORS - ground in the soil then red and blue on the plant (conductive gel)

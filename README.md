@@ -30,10 +30,10 @@ SETUP
 
 5) Install Processing on all computers
 
-6) Downaload Vocabulary of Plants on all computers
+6) Downaload Vocabulary of Plants_01, _02 and _03 to respective computers (01 to the first, 02 to second, 03 to third)
 
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
-8) Open the sketch - find a broker address (main tab, line 20 or around), 
+
 
 5) SENSORS - one sensor can be connected to two plants (photo?). 
 Then sensors are connected to switch, and switch to computer(s). 

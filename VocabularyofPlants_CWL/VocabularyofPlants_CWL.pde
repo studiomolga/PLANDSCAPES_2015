@@ -17,7 +17,7 @@ static final private int DRAW_TIME = 60000;                  //this the time in 
 
 static final private boolean DAQ_PLAY_FILE = false;                                        //select whether we are playing a file or connecting to a broker
 static final private String[] TOPIC_ARRAY = {
-  "/plant/1/probe/1"
+  "/plant/2/probe/0"
 };      //put here all the individual topics you want to subscribe to
 static final private int BUFFER_SIZE = 10;
 

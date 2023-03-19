@@ -11,16 +11,15 @@ import processing.pdf.*;
 
 PGraphics screen1;
 
-static final private int DRAW_TIME = 100000;                  //this the time in milliseconds that we will draw to the pdf file
+static final private int DRAW_TIME = 60000;                  //this the time in milliseconds that we will draw to the pdf file
 
 /** USAGE OF DAQ CLASS **/
 
-static final private boolean DAQ_PLAY_FILE = true;                                        //select whether we are playing a file or connecting to a broker
+static final private boolean DAQ_PLAY_FILE = false;                                        //select whether we are playing a file or connecting to a broker
 static final private String[] TOPIC_ARRAY = {
-  "/plant/1/probe/1",
   "/plant/1/probe/0"
 };      //put here all the individual topics you want to subscribe to
-static final private int BUFFER_SIZE = 2;
+static final private int BUFFER_SIZE = 10;
 
 static final private int EVENT_LIMIT = 30;
 

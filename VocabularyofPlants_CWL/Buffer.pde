@@ -9,8 +9,10 @@ public class Buffer{
   static final public int SLOW_RISE = 2;
   static final public int SLOW_DROP = 3;
   
-  static final private float SIGNAL_THRESHOLD = 0.002;
-  //static final private float SIGNAL_THRESHOLD = 0.0002;
+  //static final private float SIGNAL_THRESHOLD = 0.08;
+  
+  // if there is no reaction, we need to play with this number
+  static final private float SIGNAL_THRESHOLD = 0.0002;
   
   private ArrayList<Float> buffer = new ArrayList<Float>();
   
@@ -63,13 +65,13 @@ public class Buffer{
       eventStddevSum += stddev;
     }
     
-    //println(stddev);
+    println(stddev);
     //println(mean);
     //println(variance);
     //println(SIGNAL_THRESHOLD);
     //println("---------------------------");
     if (abs(stddev) > SIGNAL_THRESHOLD && !isEventHappening){ 
-      //println("event start");
+      println("event start");
       isEventHappening = true;
       eventAddIndex = 0;
       eventMeanSum = 0;
@@ -81,7 +83,7 @@ public class Buffer{
       if(mean - prevMean == 0) eventDirection = 1;
       if(mean - prevMean < 0) eventDirection = 0;
     } else if(isEventHappening && abs(stddev) < SIGNAL_THRESHOLD) {
-      //println("event stop");
+      println("event stop");
       isEventHappening = false;
       eventStop = millis();
       

@@ -42,18 +42,34 @@ SETUP
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
 
 
-8) SENSORS - one board can be connected to two plant (photo?) because we can connect two sensors to one board
+8) SENSORS:
+
+
+ ![WhatsApp Image 2023-03-20 at 22 26 00](https://user-images.githubusercontent.com/30176424/228209660-a30713c4-0e97-414d-b0c3-0ea5ade0b17d.jpeg)<br>
+
+ ![WhatsApp Image 2023-03-20 at 22 25 59 (3)](https://user-images.githubusercontent.com/30176424/228209798-4b7db3fa-f202-4f17-a167-73f93bcfa6bc.jpeg) <br>
+
+![WhatsApp Image 2023-03-20 at 22 25 59 (2)](https://user-images.githubusercontent.com/30176424/228210044-d144562d-3f93-487f-b4b2-d803f411c0c8.png)
+
+
+One board can be connected to two plant (photo?) because we can connect two sensors to one board
+
 Then sensors are connected to switch, and switch to computer(s). 
 
-Connect electrodes to the Arduino and shield (photo?), connect shield to the switch, put arduino on...
-Do they need to get some ip addresses or whatever? 
+Connect electrodes to the Arduino and shield
+![WhatsApp Image 2023-03-20 at 22 25 59](https://user-images.githubusercontent.com/30176424/228210249-f35fe89e-0e09-4464-b55e-c03e76a06e21.jpeg)
 
-9) run the processing sketch on each computer (are we actually having it as app or they just run fill screen sketch?)
-wait for the first signal to see the visualisation - you might need to do it every morning before the opening time. 
 
-each visualisation will be saved as pdf in the folder ....
+connect shield to the switch with the ethernet cables. 
+
+Turn arduino on. 
+
+
+9) Run the processing sketch on each computer. It is not made as an app so just open the main sketch and press RUN button. 
+Wait for the first signal to see the visualisation, it might take some time (depending on the mood of the plant). 
+You might need to do it every morning before the opening time or just leave it on...
+
+Each visualisation will be saved as pdf in the folder located in the sketch folder native to the running sketch
 
 10) IMPORTANT! Resolution of the monitor is has to be set 768 x 1024. - the monitor will be set HORIZONTALLY so that mac needs to know that 768 is a width, and 1024 is a heigth
 
-11) SENSORS - ground in the soil then red and blue on the plant (conductive gel)
-12) PDFs are saved in the folder "namename" located in the Vocabulary of plants folder....

@@ -45,9 +45,9 @@ SETUP
 8) SENSORS:
 
 
- <img src="https://user-images.githubusercontent.com/30176424/228209660-a30713c4-0e97-414d-b0c3-0ea5ade0b17d.jpeg" width="350px"><br>
+<img src="https://user-images.githubusercontent.com/30176424/228209660-a30713c4-0e97-414d-b0c3-0ea5ade0b17d.jpeg" width="350px"><br>
 
- <img src="https://user-images.githubusercontent.com/30176424/228209798-4b7db3fa-f202-4f17-a167-73f93bcfa6bc.jpeg" width="350px"> <br>
+<img src="https://user-images.githubusercontent.com/30176424/228209798-4b7db3fa-f202-4f17-a167-73f93bcfa6bc.jpeg" width="350px"> <br>
 
 <img src="https://user-images.githubusercontent.com/30176424/228210044-d144562d-3f93-487f-b4b2-d803f411c0c8.png" width="350px">
 
@@ -56,11 +56,11 @@ One board can be connected to two plant (photo?) because we can connect two sens
 
 Then sensors are connected to switch, and switch to computer(s). 
 
-Connect electrodes to the Arduino and shield
-<img src="https://user-images.githubusercontent.com/30176424/228210249-f35fe89e-0e09-4464-b55e-c03e76a06e21.jpeg" width="350px">
+Connect electrodes to the Arduino and shield<br>
+<img src="https://user-images.githubusercontent.com/30176424/228210249-f35fe89e-0e09-4464-b55e-c03e76a06e21.jpeg" width="350px"><br>
 
 
-connect shield to the switch with the ethernet cables. 
+Connect shield to the switch with the ethernet cables. 
 
 Turn arduino on. 
 

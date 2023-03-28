@@ -45,7 +45,7 @@ SETUP
 8) SENSORS:
 
 
- ![WhatsApp Image 2023-03-20 at 22 26 00](https://user-images.githubusercontent.com/30176424/228209660-a30713c4-0e97-414d-b0c3-0ea5ade0b17d.jpeg)<br>
+ <img src="https://user-images.githubusercontent.com/30176424/228209660-a30713c4-0e97-414d-b0c3-0ea5ade0b17d.jpeg" width="300px"><br>
 
  ![WhatsApp Image 2023-03-20 at 22 25 59 (3)](https://user-images.githubusercontent.com/30176424/228209798-4b7db3fa-f202-4f17-a167-73f93bcfa6bc.jpeg) <br>
 

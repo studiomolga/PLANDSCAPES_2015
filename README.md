@@ -23,7 +23,7 @@ SETUP
 1) <strong>FOR MAC OS:</strong> install <strong>mosquitto</strong> on <strong>only ONE</strong> of the minimac, follow this: https://subscription.packtpub.com/book/application-development/9781787287815/1/ch01lvl1sec12/installing-a-mosquitto-broker-on-macos.  
 (you might need to install a <strong>homebrew</strong> https://brew.sh/ for this - and be patient! It takes time)
 
-2) make sure <strong>mosquitto</strong> starts automatically - if not - make sure you start it on the main computer (the one with the ip address 198.168.1.1 in each terminal with this line: 
+2) make sure <strong>mosquitto</strong> starts automatically - if not - make sure you start it on the main computer (the one with the ip address 192.168.1.1 in each terminal with this line: 
 
 /usr/local/sbin/mosquitto -c /usr/local/etc/mosquitto/mosquitto.conf
 

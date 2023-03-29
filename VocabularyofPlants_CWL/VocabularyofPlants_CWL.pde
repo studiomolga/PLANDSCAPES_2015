@@ -134,7 +134,7 @@ void setup() {
 
   if (!DAQ_PLAY_FILE) {
     //-----------------connect to a broker
-    String brokerAddress = "tcp://127.0.0.1:1883";                //we set the address our broker is located, in our case its the ip address of the RPi
+    String brokerAddress = "tcp://192.168.1.1:1883";                //we set the address our broker is located, in our case its the ip address of the RPi
     daq = new DAQ(brokerAddress, TOPIC_ARRAY);                      //declare DAQ class with the addres and topics arguments
 
     Responder responder = new Responder();

@@ -20,6 +20,8 @@ EXHIBITION
 
 SETUP
 
+0) Every mac shall get a <strong>static IP address</strong> for each of minimacs: (MAIN) 192.168.1.1 (for the one with runninh mosquitto), then second one shall get: 192.168.1.4 and third one:  192.168.1.5
+
 1) <strong>FOR MAC OS:</strong> install <strong>mosquitto</strong> on <strong>only ONE</strong> of the minimac, follow this: https://subscription.packtpub.com/book/application-development/9781787287815/1/ch01lvl1sec12/installing-a-mosquitto-broker-on-macos.  
 (you might need to install a <strong>homebrew</strong> https://brew.sh/ for this - and be patient! It takes time)
 
@@ -27,7 +29,7 @@ SETUP
 
 /usr/local/sbin/mosquitto -c /usr/local/etc/mosquitto/mosquitto.conf
 
-3) Set up local network - every one of this mac shall get a static IP address for each of minimacs: (MAIN) 192.168.1.1 (for the one with runninh mosquitto), 192.168.1.4 and 192.168.1.5
+3) Set up local network - every one of this mac have static IP address (as per first item 0) on this list)
 
 4) Router / gateway for all of them shall be 192.168.1.1 (as the first mac on which the mosquitto is running), netmask shall be 255.255.255.0
 
@@ -52,7 +54,7 @@ SETUP
 <img src="https://user-images.githubusercontent.com/30176424/228210044-d144562d-3f93-487f-b4b2-d803f411c0c8.png" width="350px">
 
 
-One board can be connected to two plant (photo?) because we can connect two sensors to one board
+One board can be connected to two plant (see photo below) because we can connect two sensors to one board
 
 Then sensors are connected to switch, and switch to computer(s). 
 

@@ -36,9 +36,9 @@ SETUP
 5) Install Processing on all computers 
 
 6) Downaload Vocabulary of Plants_01, Plant_02 and Plant_03 to respective computers (01 to the first, 02 to second, 03 to third)
-- [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/releases/tag/plant_1_probe_0)
-- [plant02](https://github.com/studiomolga/PLANDSCAPES_2015/releases/tag/plant_1_probe_1)
-- [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/releases/tag/plant_2_probe_0)
+- [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_1_probe_0_v1.1.zip)
+- [plant02](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_1_probe_1_v1.1.zip)
+- [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_2_probe_0_v1.1.zip)
 
 
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)

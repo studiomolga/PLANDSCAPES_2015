@@ -40,7 +40,7 @@ SETUP
 - [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147192/PLANDSCAPES_2015-plant_1_probe_0_v1.1.zip)
 - [plant02](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147223/PLANDSCAPES_2015-plant_1_probe_1_v1.1.zip)
 - [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147227/PLANDSCAPES_2015-plant_2_probe_0_v1.1.zip)
-- 
+
 <!-- 
 ///// THOSE ONES FOR MORE POWERFUL COMPUTERS ///////
 - [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_1_probe_0_v1.1.zip)

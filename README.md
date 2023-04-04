@@ -37,14 +37,15 @@ SETUP
 
 6) Downaload Vocabulary of Plants_01, Plant_02 and Plant_03 to respective computers (01 to the first, 02 to second, 03 to third)
 
-- [plant1](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147192/PLANDSCAPES_2015-plant_1_probe_0_v1.1.zip)
-- [plant2](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147223/PLANDSCAPES_2015-plant_1_probe_1_v1.1.zip)
-- [plant3](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147227/PLANDSCAPES_2015-plant_2_probe_0_v1.1.zip)
-
+- [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147192/PLANDSCAPES_2015-plant_1_probe_0_v1.1.zip)
+- [plant02](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147223/PLANDSCAPES_2015-plant_1_probe_1_v1.1.zip)
+- [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/files/11147227/PLANDSCAPES_2015-plant_2_probe_0_v1.1.zip)
+- 
+<!-- 
 ///// THOSE ONES FOR MORE POWERFUL COMPUTERS ///////
 - [plant01](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_1_probe_0_v1.1.zip)
 - [plant02](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_1_probe_1_v1.1.zip)
-- [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_2_probe_0_v1.1.zip)
+- [plant03](https://github.com/studiomolga/PLANDSCAPES_2015/archive/refs/tags/plant_2_probe_0_v1.1.zip) -->
 
 
 7) Download libraries to all the computers (and place it in the <i>libraries</i> folder of <i>Processing</i> folder - usually placed in <i>documents</i>)
